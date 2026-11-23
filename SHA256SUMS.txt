@@ -1,0 +1,2 @@
+cf7c9ca552bc42a5f942c1be74bee73f71f08833588e96f4970bb85ae6ce8407  squachwatch-waveshare-s3-35-gps-v4-merged.bin
+f2e184ee24a07cd735f992ad5bb2a4294c007f758bfa098d759d5451a4f4852c  squachwatch-waveshare-s3-35-v4-merged.bin
